@@ -18,13 +18,6 @@
 
 ---
 
-### 🤖 What I'm Building
-
-**[research-agent](https://github.com/RunzeWater/research-agent)** — ReAct-style agent with tool use & multi-step reasoning. Built with Python + Claude API.
-
-**[ai-vtuber](https://github.com/RunzeWater/ai-vtuber)** — Real-time AI streamer with LLM dialogue & memory.
----
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_ID](https://www.linkedin.com/in/runze-jiang-5559303b8/))
