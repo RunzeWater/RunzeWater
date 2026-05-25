@@ -18,11 +18,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🤖 What I'm Building
 
-![Runze's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunzeWater&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunzeWater&layout=compact&theme=github_dark&hide_border=true)
+**[research-agent](https://github.com/RunzeWater/research-agent)** — ReAct-style agent with tool use & multi-step reasoning. Built with Python + Claude API.
 
+**[ai-vtuber](https://github.com/RunzeWater/ai-vtuber)** — Real-time AI streamer with LLM dialogue & memory.
 ---
 
 ### 📬 Let's Connect
