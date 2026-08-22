@@ -2,7 +2,7 @@
 
 🎓 CS + AI specialization @ University of Alberta  
 🤖 Focused on **LLM agents** — tool use, planning & multi-step reasoning  
-🔍 Open to **2026 Co-op** (ML / AI Engineering)  
+🔍 Open to **2027 Co-op** (ML / AI Engineering)  
 📍 Edmonton, AB, Canada
 
 ---
