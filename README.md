@@ -20,5 +20,5 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_ID]([https://www.linkedin.com/in/runze-jiang-5559303b8/](https://www.linkedin.com/in/runze-jiang-5559303b8/)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_ID]([https://www.linkedin.com/in/runze-jiang-5559303b8/]([https://www.linkedin.com/in/runze-jiang-5559303b8/](https://www.linkedin.com/in/runze-jiang-5559303b8/))))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:runzejiang.ai@gmail.com)
